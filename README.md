@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Dhruv Aggarwal <br>Working on machine learning, deep learning algorithms ,Generative AI and NLP. Passionate about computer vision and the new innovations in the field of GenAI<br>Soon want to be a data scientist and work on AI</h3>
+<h3 align="center">Hi 👋! My name is Dhruv Aggarwal <br>Working on machine learning, deep learning algorithms ,Generative AI and NLP. Passionate about computer vision and the new innovations in the field of GenAI<br>Soon want to be a data scientist and work on AI .Can checkout my hugging face profile also - https://huggingface.co/DA1212</h3>
 
 ###
 
